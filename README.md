@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[Download PDF](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/TrueTechMTS.pdf)
+[Download PDF](https://raw.githubusercontent.com/username/repository/main/example.pdf)
 <!--
 **Placebo-relay/Placebo-relay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
