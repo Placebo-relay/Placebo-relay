@@ -1,4 +1,4 @@
-## 👋
+## 👋 + termux + github mobile + cloud software
 
 1. [Action profile](https://profpasport.ru/specialist/22442882)
 2. [Talent profile](https://talent.kruzhok.org/user/593284)
