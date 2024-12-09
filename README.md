@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+1. [Action profile](https://profpasport.ru/specialist/22442882)
+2. [Talent profile](https://talent.kruzhok.org/user/593284)
+
 [TrueTechMTS](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/TrueTechMTS.pdf)
 
 [T-education](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/T_education_Data_Analysis_universal_diploma_2024.pdf)
