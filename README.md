@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 [Download PDF](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/TrueTechMTS.pdf)
-[Download PDF](https://raw.githubusercontent.com/username/repository/main/example.pdf)
+
+[Download PDF](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/T_education_Data_Analysis_universal_diploma_2024.pdf)
 <!--
 **Placebo-relay/Placebo-relay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
