@@ -14,9 +14,10 @@
 * [site Physics](https://demo-5.streamlit.app/)
 * [site pandas](https://edulab1.streamlit.app/)
 
-[TrueTechMTS](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/TrueTechMTS.pdf)
+1. [TrueTechMTS](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/TrueTechMTS.pdf)
+2. [T-education](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/T_education_Data_Analysis_universal_diploma_2024.pdf)
+3. [Conference Digital Edu](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/conference_digital_edu.pdf)
 
-[T-education](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/T_education_Data_Analysis_universal_diploma_2024.pdf)
 
 [Digital skills](https://challenge.braim.org/certificates/04d5373d-dd2a-46d7-a8d9-d8625277db42)
 
