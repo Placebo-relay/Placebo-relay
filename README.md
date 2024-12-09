@@ -3,6 +3,12 @@
 1. [Action profile](https://profpasport.ru/specialist/22442882)
 2. [Talent profile](https://talent.kruzhok.org/user/593284)
 
+* [html pres](https://github.com/Placebo-relay/Placebo-relay/blob/main/README.slides(1).html)
+* [binder pres](https://mybinder.org/v2/gh/Placebo-relay/RISE/master?filepath=examples%2FREADME.ipynb)
+* [website profile](https://web-progr.webflow.io/)
+* [site Sympy Integral](https://design1.streamlit.app/)
+* [site Physics](https://demo-5.streamlit.app/)
+
 [TrueTechMTS](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/TrueTechMTS.pdf)
 
 [T-education](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/T_education_Data_Analysis_universal_diploma_2024.pdf)
