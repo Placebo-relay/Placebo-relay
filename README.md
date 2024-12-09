@@ -12,6 +12,7 @@
 * [website profile](https://web-progr.webflow.io/)
 * [site Sympy Integral](https://design1.streamlit.app/)
 * [site Physics](https://demo-5.streamlit.app/)
+* [site pandas](https://edulab1.streamlit.app/)
 
 [TrueTechMTS](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/TrueTechMTS.pdf)
 
