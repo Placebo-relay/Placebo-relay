@@ -3,6 +3,8 @@
 1. [Action profile](https://profpasport.ru/specialist/22442882)
 2. [Talent profile](https://talent.kruzhok.org/user/593284)
 3. [fam report](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/freport_main.pdf)
+4. [mir nauki part 1 info](https://izd-mn.com/37mnnpu23.html)
+5. [mir nauki part 1 pdf](https://izd-mn.com/PDF/37MNNPU23.pdf)
 
 * [html GithubPage pres](https://placebo-relay.github.io/Placebo-relay/)
 * [html pres file](https://github.com/Placebo-relay/Placebo-relay/blob/main/index.html)
