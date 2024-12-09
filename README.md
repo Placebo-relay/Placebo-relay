@@ -2,8 +2,9 @@
 
 1. [Action profile](https://profpasport.ru/specialist/22442882)
 2. [Talent profile](https://talent.kruzhok.org/user/593284)
+3. [fam report](https://github.com/Placebo-relay/Placebo-relay/main/freport_main.pdf)
 
-* [html pres](https://github.com/Placebo-relay/Placebo-relay/blob/main/README.slides(1).html)
+* [html pres](https://github.com/Placebo-relay/Placebo-relay/main/README.slides(1).html)
 * [binder pres](https://mybinder.org/v2/gh/Placebo-relay/RISE/master?filepath=examples%2FREADME.ipynb)
 * [website profile](https://web-progr.webflow.io/)
 * [site Sympy Integral](https://design1.streamlit.app/)
