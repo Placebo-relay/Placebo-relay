@@ -7,6 +7,8 @@
 5. [mir nauki part 1 pdf](https://izd-mn.com/PDF/37MNNPU23.pdf)
 6. [bi](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/bi.pdf)
 7. [pi](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/pi.pdf)
+8. [pe](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/pe.pdf)
+9. [mm](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/mm.pdf)
 
 * [WordPress](https://lstsq.wordpress.com/)
 * [html GithubPage pres](https://placebo-relay.github.io/Placebo-relay/)
