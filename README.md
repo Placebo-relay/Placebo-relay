@@ -12,7 +12,7 @@
 * [site pandas](https://edulab1.streamlit.app/)
 * [html pres file](https://github.com/Placebo-relay/Placebo-relay/blob/main/index.html)
 * [binder pres](https://mybinder.org/v2/gh/Placebo-relay/RISE/master?filepath=examples%2FREADME.ipynb)
-* [website profile](https://web-progr.webflow.io/)
+* [webflow profile](https://web-progr.webflow.io/)
 * [site Sympy Integral](https://design1.streamlit.app/)
 * [site Physics](https://demo-5.streamlit.app/)
 
