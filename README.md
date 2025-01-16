@@ -9,7 +9,7 @@
 *[WordPress](https://lstsq.wordpress.com/)
 * [html GithubPage pres](https://placebo-relay.github.io/Placebo-relay/)
 * [site GoogleColab](https://colab.research.google.com/drive/1KRNDUU2lZpnA1BsovOX7Le8TaZAfNRdp?usp=sharing#scrollTo=4lA0w8FpZMf-)
-* [site pandas](https://edulab1.streamlit.app/)
+* [site streamlit pandas](https://edulab1.streamlit.app/)
 * [html pres file](https://github.com/Placebo-relay/Placebo-relay/blob/main/index.html)
 * [binder pres](https://mybinder.org/v2/gh/Placebo-relay/RISE/master?filepath=examples%2FREADME.ipynb)
 * [webflow profile](https://web-progr.webflow.io/)
