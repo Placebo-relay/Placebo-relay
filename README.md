@@ -5,6 +5,8 @@
 3. [fam report](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/freport_main.pdf)
 4. [mir nauki part 1 info](https://izd-mn.com/37mnnpu23.html)
 5. [mir nauki part 1 pdf](https://izd-mn.com/PDF/37MNNPU23.pdf)
+6. [bi](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/bi.pdf)
+7. [pi](https://raw.githubusercontent.com/Placebo-relay/Placebo-relay/main/pi.pdf)
 
 * [WordPress](https://lstsq.wordpress.com/)
 * [html GithubPage pres](https://placebo-relay.github.io/Placebo-relay/)
