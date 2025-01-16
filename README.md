@@ -6,7 +6,7 @@
 4. [mir nauki part 1 info](https://izd-mn.com/37mnnpu23.html)
 5. [mir nauki part 1 pdf](https://izd-mn.com/PDF/37MNNPU23.pdf)
 
-*[WordPress](https://lstsq.wordpress.com/)
+* [WordPress](https://lstsq.wordpress.com/)
 * [html GithubPage pres](https://placebo-relay.github.io/Placebo-relay/)
 * [site GoogleColab](https://colab.research.google.com/drive/1KRNDUU2lZpnA1BsovOX7Le8TaZAfNRdp?usp=sharing#scrollTo=4lA0w8FpZMf-)
 * [site streamlit pandas](https://edulab1.streamlit.app/)
