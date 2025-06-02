@@ -17,7 +17,7 @@
   
   <li>👨‍💻 I am a full-time student, Radiophysics + CS major</li>
   
-  <li>🔭 Goals for 2025: Rustlings, ROOT, Flask.</a>
+  <li>🔭 Goals for 2025: Rustlings, ROOT, Flask</a>
   
   <li>💬 I'm passionate about Data Science and Visualisation tools</li>
   
