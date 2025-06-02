@@ -21,7 +21,7 @@
   
   <li>💬 I'm passionate about Data Science and Visualisation tools</li>
   
-  <li>🎉🌱 Fun Fact : I love </li>
+  <li>🎉🌱 Fun Fact : I love learning languages. Currently learning: French, Japanese, Chinese</li>
 </ul>
 
 <!-- About me section: END -->
