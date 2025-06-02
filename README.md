@@ -7,3 +7,21 @@
 </p>
 
 <!-- Animation Typing: END -->
+
+<!-- About me section -->
+
+<h2>⚡️ About Me</h2>
+
+<ul>
+  <li>✨ I’m Roman</li>
+  
+  <li>👨‍💻 I am a full-time student, Radiophysics + CS major</li>
+  
+  <li>🔭 Goals for 2025: Rustlings, ROOT, Flask.</a>
+  
+  <li>💬 I'm passionate about Data Science and Visualisation tools</li>
+  
+  <li>🎉🌱 Fun Fact : I love </li>
+</ul>
+
+<!-- About me section: END -->
