@@ -63,7 +63,7 @@
   <h3>💻 Software and Tools</h3>
 
   <p>
-      <a href="#"><img alt="Termux" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white"></a>
+      <a href="#"><img alt="Termux" src="https://img.shields.io/badge/Termux-32B332.svg?logo=termux&logoColor=white"></a>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
       <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-1793D1.svg?logo=kali-linux&logoColor=white"></a>
       <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
