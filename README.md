@@ -60,7 +60,7 @@
       <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
 <details open> 
-  <h3>💻 Software and Tools</h3>
+  <summary><h3>💻 Software and Tools</h3></summary>
 
   <p>
       <a href="#"><img alt="Termux" src="https://img.shields.io/badge/Termux-000000?logo=termux&logoColor=white"></a>
